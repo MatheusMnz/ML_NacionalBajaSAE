@@ -18,8 +18,8 @@ To run this code, you'll need the following Python libraries installed:
 You can install these libraries easily using pip. Here's an example of how to install them using pip:
 
 ```bash
-pip install pandas scikit-learn matplotlib seaborn numpy
-## Installation and Execution
+pip install -r requirements.txt
+
 
 1. Clone the repository:
 
