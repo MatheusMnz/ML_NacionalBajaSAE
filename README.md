@@ -7,6 +7,18 @@ This project was proposed by the SAE Organization. We were provided with a large
 - Python (version 3 or higher)
 - Pip (Python package manager)
 
+To run this code, you'll need the following Python libraries installed:
+
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- numpy
+
+You can install these libraries easily using pip. Here's an example of how to install them using pip:
+
+```bash
+pip install pandas scikit-learn matplotlib seaborn numpy
 ## Installation and Execution
 
 1. Clone the repository:
