@@ -6,9 +6,6 @@ This project was proposed by the SAE Organization. We were provided with a large
 
 - Python (version 3 or higher)
 - Pip (Python package manager)
-
-To run this code, you'll need the following Python libraries installed:
-
 - pandas
 - scikit-learn
 - matplotlib
